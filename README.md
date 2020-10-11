@@ -16,9 +16,9 @@ URL: https://www.kaggle.com/mlg-ulb/creditcardfraud
 4. The dataset consists of numerical values from the 28 ‘Principal Component Analysis (PCA)’ transformed features, namely V1 to V28. Furthermore, there is no metadata about the original features provided, so pre-analysis or feature study could not be done.
 
 5. The ‘Time’ and ‘Amount’ features are not transformed data.
-    -Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. 
-    -The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning. 
-    -Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
+-Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. 
+-The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-senstive learning. 
+-Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
 6. There is no missing value in the dataset.
 

@@ -4,6 +4,8 @@ Credit card fraud and scams have increased significantly in the last decade. The
 
 Technological advancements in the field of machine learning and deep learning have proven themselves very helpful in detecting and predicting such anomalies. So, for this project, I will attempt to build a supervised learning model which could detect such anomalies in transactions and help in reducing such crimes.
 
+Python Notebook: https://github.com/akarshsrivastava/credit-card-fraud-detection/blob/main/credit-card-fraud-detection.ipynb
+
 Dataset:
 
 1. For this project, I have taken the credit card dataset from Kaggle.com

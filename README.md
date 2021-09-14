@@ -1,6 +1,6 @@
 # credit-card-fraud-detection
 
-Credit card fraud and scams have increased significantly in the last decade. The technological advancement has provided such fraudsters new means and tactics to commit such crimes. Such frauds and scams cost consumers and the financial company billions of dollars annually. Thus, fraud detection systems have become essential for banks and financial institution, to minimize their losses.
+Credit card fraud and scams have increased significantly in the last decade. The technological advancement has provided such fraudsters new means and tactics to commit such crimes. Such frauds and scams cost consumers and the financial company large sums of dollars annually. Thus, fraud detection systems have become essential for banks and financial institution, to minimize their losses.
 
 Technological advancements in the field of machine learning and deep learning have proven themselves very helpful in detecting and predicting such anomalies. So, for this project, I will attempt to build a supervised learning model which could detect such anomalies in transactions and help in reducing such crimes.
 
